@@ -1,8 +1,29 @@
-# React + Vite
+You can access the website with the following link: https://andrewvergun.github.io/react-weather/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Cryptoplace
 
-Currently, two official plugins are available:
+Welcome to Cryptoplace, the world's largest cryptocurrency marketplace.
+![image](https://github.com/andrewvergun/cryptoplace/assets/78305185/5b71c7ce-584c-4e99-8aac-2142f05a9199)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Overview
+
+Cryptoplace is a comprehensive cryptocurrency marketplace where you can track real-time prices, market caps, and changes in cryptocurrency values. 
+
+
+
+![Cryptoplace Homepage](screenshot-homepage.png)
+
+## Features
+
+- **Real-time Price Tracking**: View current prices of various cryptocurrencies.
+- **Market Cap Information**: Get insights into the market capitalization of different cryptocurrencies.
+- **24H Change**: Monitor the 24-hour price changes to make informed trading decisions.
+- **Price Changes Line Chart**: Monitor the 10-day price changes of selected cryptocurrencey.
+![image](https://github.com/andrewvergun/cryptoplace/assets/78305185/977e653c-d963-4d46-b939-1357b409ccc4)
+
+
+
+
+
