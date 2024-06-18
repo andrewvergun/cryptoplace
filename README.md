@@ -2,7 +2,7 @@ You can access the website with the following link: https://andrewvergun.github.
 
 ## Overview
 
-Welcome to Cryptoplace, the world's largest cryptocurrency marketplace. Cryptoplace offers a comprehensive platform for tracking and trading cryptocurrencies. Our user-friendly interface and real-time data provide users with all the necessary tools to make informed decisions in the dynamic world of digital currencies.
+Welcome to Cryptoplace, the world's largest cryptocurrency marketplace. Cryptoplace offers a comprehensive platform for tracking cryptocurrencies. Our user-friendly interface and real-time data provide users with all the necessary tools to make informed decisions in the dynamic world of digital currencies.
 
 ![image](https://github.com/andrewvergun/cryptoplace/assets/78305185/99d8edd4-e9d8-477b-a0ac-142488a28e14)
 ![image](https://github.com/andrewvergun/cryptoplace/assets/78305185/35963b64-c268-43a8-98f7-62b67c657b62)
